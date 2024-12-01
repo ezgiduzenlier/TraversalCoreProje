@@ -1,0 +1,7 @@
+﻿<Properties StartupConfiguration="{FDFF549A-6B15-4FF0-8866-30B90968C871}|https">
+  <MonoDevelop.Ide.ItemProperties.BusinessLayer FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.TraversalCoreProje PreferredExecutionTarget="/Applications/Safari.app" FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.EntityLayer FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.DataAccessLayer FirstBuild="True" />
+  <MultiItemStartupConfigurations />
+</Properties>

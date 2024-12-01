@@ -154,3 +154,28 @@ $RECYCLE.BIN/
 
 # Mac desktop service store files
 .DS_Store
+
+# Visual Studio Assembly Info and Cache files
+*AssemblyInfo.cs
+*.InfoInputs.cache
+
+# Visual Studio Code
+.vscode/
+
+# Visual Studio
+.vs/
+*.cache
+
+# .NET Core
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# IDE - VSCode specific files
+*.code-workspace
+.history/
+
+# Build results
+[Dd]ebugPublic/
+[Rr]eleasePublic/
+*.nupkg
